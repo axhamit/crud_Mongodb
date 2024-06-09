@@ -1,0 +1,20 @@
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    padding: 10px 40px;
+    background-color: rgb(25, 25, 25);
+    align-items: center;
+    border-radius: 7px;
+}
+.link {
+color: white;
+font-weight: bold;
+}
+
+.btn {
+    background-color: aliceblue;
+    padding: 10px 20px;
+    border-radius: 20px;
+    color:  rgb(25, 25, 25);
+    font-weight: bolder;
+}

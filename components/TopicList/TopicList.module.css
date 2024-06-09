@@ -1,0 +1,17 @@
+.mainlist {
+    display: flex;
+    border: 1px solid black;
+    margin: 40px 10px;
+    padding: 20px;
+    border-radius: 10px;
+    justify-content: space-between;
+    align-items: start;
+}
+.mainlist h2 {
+    font-size: 30px;
+    font-weight: bolder;
+}
+.rytdiv {
+    display: flex;
+    gap: 20px;
+}
