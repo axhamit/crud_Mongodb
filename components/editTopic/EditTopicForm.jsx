@@ -45,7 +45,7 @@ const Page = ({ id, title, description }) => {
           value={newDescription}
           className={styles.formInput}
           type='text'
-          placeholder='Edit Description'
+          placeholder='Edit Description '
         />
         {/* Moved onChange and value props to the input element */}
         <button type='submit' className={styles.btn}>Edit Topic</button>
